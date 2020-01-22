@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-image
+opencv-python
+tqdm
+numba
+pytest
